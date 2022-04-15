@@ -1,0 +1,9 @@
+What’s the difference between a local and global variable?
+
+Where the variable can be used in the code.
+A global variable can be used in the entire code file.
+A local variable only in a function, loop or section.
+
+How can you make a global variable?
+
+Define it on top of the file
